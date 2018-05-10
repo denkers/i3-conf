@@ -1,6 +1,6 @@
 # i3 Config
 
-<img src='Preview.png' />
+<img src='preview/Screenshot.png' />
 
 ### Prerequisites
 - [i3 wm](https://i3wm.org/)
